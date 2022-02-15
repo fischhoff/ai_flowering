@@ -12,6 +12,6 @@ Load data and organize into folders.
 
 Train model using transfer learning with fine-tuning. 
 
-Use model to make predictions for labeled and unlabeled images. Add iNaturalist metadata to predictions. 
+Use model to make predictions for labeled and unlabeled images. Add iNaturalist metadata to predictions. iNaturalist metadata are available for download from inaturalist.org; the metadata used for this analysis are in this repo in data/iNaturalistEucalypts - iNaturalistEucalypts.csv. 
 
 Using transfer learning with the pretrained model as a fixed feature extractor. This model was less accurate and therefore we did not use it.   
